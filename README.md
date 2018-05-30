@@ -1,2 +1,4 @@
 # hello-word
-库库库库库
+def func():
+    return 666
+func()
